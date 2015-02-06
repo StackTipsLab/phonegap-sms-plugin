@@ -7,6 +7,11 @@ The Android portion was forked from https://github.com/javatechig/phonegap-sms-p
 
 The iOS portion was copied from https://github.com/phonegap/phonegap-plugins by Jesse MacFadyen and then modified slightly to work with this plugin and phonegap 3.x.
 
+New Repo
+========
+
+This plugin has a new home at [https://github.com/cordova-sms/cordova-sms-plugin](https://github.com/cordova-sms/cordova-sms-plugin) and this repo will no longer be updated or maintained. Please update your projects to use that plugin instead. And if you liked this plugin, please head over there and star that repo.
+
 New maintainers
 ===============
 
